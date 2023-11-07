@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/FotoProfile3.jpg") top center;
+  background: url("../img/FotoProfile4.jpg") top center;
   background-size: cover;
 }
 
@@ -1104,3 +1104,6 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+
